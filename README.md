@@ -26,5 +26,5 @@ Once the features were engineered, the dataset was queried to find specific benc
 3. Open the `feature.extraction.project.ipynb` file using Jupyter Notebook or your preferred IDE.
 4. Run the cells sequentially to observe the step-by-step string manipulation and data querying process.
 
-## 👨‍💻 Author
-**Syed Moyeez Ali** Data Science Enthusiast | Exploring Data Wrangling & Feature Engineering
+## Author
+**Syed Moyeez Ali** Data Science Student | Aspiring Data Analyst | Exploring Data Wrangling & Feature Engineering
